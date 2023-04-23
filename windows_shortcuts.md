@@ -1,5 +1,5 @@
 #### To create a virtual desktop
-For windows--> `windows + ctrl + D`
+For windows--> `windows + ctrl + D`<br/>
 For Mac -----> `ctrl + UP`
 
 #### To switch between virtual windows
