@@ -10,4 +10,3 @@ C:\python_course>git remote add origin https://github.com/learning-45/python_cou
 C:\python_course>git remote -v
 origin  https://github.com/learning-45/python_course.git (fetch)
 origin  https://github.com/learning-45/python_course.git (push)
-
