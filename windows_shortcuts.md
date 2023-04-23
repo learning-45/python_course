@@ -3,7 +3,7 @@ For windows--> `windows + ctrl + D`<br/>
 For Mac -----> `ctrl + UP`
 
 #### To switch between virtual windows
-For windows---> `Windows + ctrl + eft and right arrow keys`<br/>
+For windows---> `Windows + ctrl + left and right arrow keys`<br/>
 For Mac ------> `ctrl + left and right arrow keys`
 
 #### For closing that virtual tabs
