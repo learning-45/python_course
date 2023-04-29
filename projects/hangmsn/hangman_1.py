@@ -1,0 +1,1 @@
+food_names = ["Pizza", "Burger", "Tacos", "Sushi", "Pasta", "Steak", "Chicken", "Fish", "Ramen", "Curry", "Pad Thai", "Dim Sum", "BBQ Ribs", "Lobster", "Clam Chowder", "Pho", "Biryani", "Falafel", "Shawarma", "Gyro"]
